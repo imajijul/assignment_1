@@ -8,16 +8,13 @@
 
 body{
     font-family: "Lexend", sans-serif;
+    background-color: #fff;
 }
-
+/* Navbar design */
 .logo{
     color: red;
 
 }
-.logo:hover{
-    color: green
-}
-
 ul>li>a:hover{
     color:green
 }
@@ -49,6 +46,7 @@ ul>li>a:hover{
         
     }
 }
+
 .btn_4{
     transition: all .3s linear;
     &:hover{
@@ -57,6 +55,7 @@ ul>li>a:hover{
         color: #fff;
     }
 }
+
 .btn_5{
     transition: all .3s linear;
     &:hover{
